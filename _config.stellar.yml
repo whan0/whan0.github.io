@@ -1,0 +1,18 @@
+sidebar:
+  menu:
+    post: '[博客](/)'
+    wiki: '[知识库](/wiki/)'
+    notes: '[便笺](/notes/)'
+    more: '[独白](/more/)'
+
+comments:
+  service: utterances # utterances
+  utterances:
+    repo: Whan/blog-comments
+
+open_graph:
+  enable: true
+  twitter_id: # for open_graph meta
+
+article:
+  auto_excerpt: 140
